@@ -1,0 +1,7 @@
+hello suraj how are you ?
+
+
+
+tthis file is also a demo to learn about git and github.
+
+now we are going to make an remote connection with our editor and github using git.
